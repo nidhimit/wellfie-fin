@@ -49,5 +49,5 @@ Execute `get_risk.py` however you execute python scripts, usually something like
 <br>
 <br>
 
-*Shoot me a text, email, etc. if you have questions. -Brian*
+
   
